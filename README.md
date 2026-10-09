@@ -16,7 +16,8 @@ This project analyzes Shopify's sales data from 2023 to 2025 to understand the c
 
 The dataset consists of a single transactional table containing 19 fields, covering order details, customer and product attributes, and financial performance metrics.
 
-![Data structure table](image/data-structure.png)
+![Data structure table](.//img/table.png)
+
 
 Before analysis, the data was checked for missing values, duplicate order IDs, and inconsistencies in returned vs. refunded orders, ensuring accuracy across all downstream calculations.
 
