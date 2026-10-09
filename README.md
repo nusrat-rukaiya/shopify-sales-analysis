@@ -35,7 +35,7 @@ In 2025 (year-to-date through June), GMV (\$13.81M) and net revenue (\$9.67M) bo
 
 Net profit margin stayed essentially flat across all three views (98.40%, 98.40%, 98.42%) despite swings in every other metric — a pattern worth flagging as a possible calculation issue rather than a genuine result.
 
-![Shopify sales dashboard](image/dashboard.png)
+![Shopify sales dashboard](./img/shopify%20dashboard.%201PNG.PNG)
 
 ---
 
